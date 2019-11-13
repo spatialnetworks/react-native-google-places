@@ -4,6 +4,7 @@
 #import <React/RCTBridge.h>
 #import <React/RCTEventDispatcher.h>
 
+#import <GoogleMaps/GoogleMaps.h>
 #import <GooglePlaces/GooglePlaces.h>
 
 @interface RNGooglePlaces : NSObject <RCTBridgeModule>
